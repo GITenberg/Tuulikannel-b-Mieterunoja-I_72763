@@ -1,5 +1,8 @@
 _repo: Tuulikannel-b-Mieterunoja-I_72763
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leino, Eino
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eino_Leino
     - https://fi.wikipedia.org/wiki/Eino_Leino
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72763#Tuulikannel-b-Mieterunoja-I
 gutenberg_issued: '2024-01-20'
 gutenberg_type: Text
 identifiers:
